@@ -28,14 +28,14 @@ ADAM AI is a smart web application that allows students to upload their notes, a
 ### Backend
 
 ```bash
-cd backend
+cd ADAM-backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
 ### Frontend
 ```bash
-cd frontend
+cd ADAM-frontend
 npm install
 npm run dev
 ```
